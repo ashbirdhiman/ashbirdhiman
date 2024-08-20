@@ -19,3 +19,15 @@ I'm a forward-thinking software engineer passionate about developing software in
 ## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/ashbir-singh-dhiman)
 - [GitHub](https://github.com/ashbir-dhiman)
+
+### ⚙️ Analytics
+
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashbirdhiman&layout=compact&count_private=true)
+
+![Github Statistics](https://github-readme-stats.vercel.app/api/?username=ashbirdhiman&count_private=true&show_icons=true&theme=tokyonight)
+
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=ashbirdhiman&hide_border=true)
+
+![Profile Views](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=ashbirdhiman&repo=ashbirdhiman&countColorcountColor)
+
+<!-- - ⚡ Fun fact: ... -->
