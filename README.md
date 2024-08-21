@@ -17,8 +17,8 @@ I'm a forward-thinking software engineer passionate about developing software in
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=intellij-idea&logoColor=red)&nbsp;
 
 ## 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/ashbir-singh-dhiman)
-- [GitHub](https://github.com/ashbir-dhiman)
+- [LinkedIn](https://www.linkedin.com/in/ashbir-d-310121178/)
+- [GitHub](https://github.com/ashbirdhiman)
 
 ### ⚙️ Analytics
 
@@ -27,7 +27,5 @@ I'm a forward-thinking software engineer passionate about developing software in
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=ashbirdhiman&count_private=true&show_icons=true&theme=tokyonight)
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=ashbirdhiman&hide_border=true)
-
-![Profile Views](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=ashbirdhiman&repo=ashbirdhiman&countColorcountColor)
 
 <!-- - ⚡ Fun fact: ... -->
