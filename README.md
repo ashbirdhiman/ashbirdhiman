@@ -17,7 +17,7 @@ I'm a forward-thinking software engineer passionate about developing software in
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=intellij-idea&logoColor=red)&nbsp;
 
 ## 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/ashbir-d-310121178/)
+- [LinkedIn](https://www.linkedin.com/in/ashbir-himan)
 - [GitHub](https://github.com/ashbirdhiman)
 
 ### ⚙️ Analytics
