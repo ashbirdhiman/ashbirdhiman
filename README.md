@@ -20,6 +20,9 @@ I enjoy building **scalable, production-ready applications**, working with **clo
 - ⚡ Fun fact: I enjoy turning complex systems into clean, simple designs
 
 ---
+## 🛠️ Currently developing AI powered Shoppermart  Project 
+- Checkout here : https://github.com/ashbirdhiman/ShopperMart
+
 
 ## 🛠️ Tech Stack
 
